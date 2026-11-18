@@ -18,7 +18,7 @@ This project explores community detection in Zachary's Karate Club network using
 - Matplotlib
 
 ## How to Run
-1. Open the `.ipynb` notebook in Google Colab or Jupyter Notebook.
+1. Open the `DSC212_Assignment.ipynb` notebook in Google Colab or Jupyter Notebook.
 2. Install the required libraries:
 
    ```bash
@@ -29,8 +29,6 @@ This project explores community detection in Zachary's Karate Club network using
 ## References
 1. Newman, M. E. J. (2006). *Modularity and community structure in networks*. Proceedings of the National Academy of Sciences, 103(23), 8577–8582. [Read paper](https://doi.org/10.1073/pnas.0601602103)
 2. Zachary, W. W. (1977). *An information flow model for conflict and fission in small groups*. Journal of Anthropological Research, 33, 452–473.
-3. [NetworkX – Karate Club Graph Documentation](https://networkx.org/documentation/stable/reference/generated/networkx.generators.social.karate_club_graph.html)
-4. [NumPy – Linear Algebra Documentation](https://numpy.org/doc/stable/reference/routines.linalg.html)
 
 ## Conclusion
 The project demonstrates how spectral methods can identify communities in social networks and how network metrics help analyze the structural importance of individual nodes.
