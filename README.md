@@ -27,7 +27,7 @@ This project explores community detection in Zachary's Karate Club network using
 3. Run all cells to execute the algorithm and generate visualizations.
 
 ## References
-1. Newman, M. E. J. (2006). *Modularity and community structure in networks*. Proceedings of the National Academy of Sciences, 103(23), 8577–8582. [Read paper](https://doi.org/10.1073/pnas.0601602103)
+1. Newman, M. E. J. (2006). *Modularity and community structure in networks*. Proceedings of the National Academy of Sciences, 103(23), 8577–8582.
 2. Zachary, W. W. (1977). *An information flow model for conflict and fission in small groups*. Journal of Anthropological Research, 33, 452–473.
 
 ## Conclusion
