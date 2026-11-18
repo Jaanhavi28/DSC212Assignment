@@ -11,12 +11,6 @@ This project explores community detection in Zachary's Karate Club network using
 - Visualize community divisions after each iteration.
 - Analyze degree, betweenness, closeness centrality and clustering coefficient.
 
-## Technologies Used
-- Python
-- NumPy
-- NetworkX
-- Matplotlib
-
 ## How to Run
 1. Open the `DSC212_Assignment.ipynb` notebook in Google Colab or Jupyter Notebook.
 2. Install the required libraries:
