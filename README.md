@@ -12,11 +12,11 @@ This project explores community detection in Zachary's Karate Club network using
 - Analyze degree, betweenness, closeness centrality and clustering coefficient.
 
 ## How to Run
-1. Open the `DSC212_Assignment.ipynb` notebook in Google Colab or Jupyter Notebook.
+1. Open the `Modularity_Karate_Club.ipynb` notebook in Google Colab or Jupyter Notebook.
 2. Install the required libraries:
 
    ```bash
-   pip install networkx numpy matplotlib
+   pip install networkx numpy matplotlib jupyter
    ```
 3. Run all cells to execute the algorithm and generate visualizations.
 
